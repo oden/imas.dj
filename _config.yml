@@ -1,4 +1,4 @@
-theme: jekyll-swiss
+theme: minima
 google_analytics: UA-107493720-2
 gems:
     - jemoji
